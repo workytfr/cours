@@ -39,4 +39,5 @@
 .headerAsso {
     @apply grid grid-cols-3 gap-4;
     margin-top: 3%;
+    margin-left: 3%;
 }
